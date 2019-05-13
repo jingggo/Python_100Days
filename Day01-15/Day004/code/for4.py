@@ -2,7 +2,7 @@
 输入一个正整数N判断它是否为素数
 思路：
 1. 取N的平方根为end，如果2~end之间无能被N整数的数，则为素数
-@Author:jingo
+@Author:jyang
 @Date:5/9/2019
 """
 

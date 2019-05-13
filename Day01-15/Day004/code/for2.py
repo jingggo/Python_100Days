@@ -1,6 +1,6 @@
 """
 对1~100之间的偶数求和
-@Author:jingo
+@Author:jyang
 @Date:5/9/2019
 """
 
