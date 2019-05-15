@@ -53,3 +53,6 @@ Output: World
 事实上我们可能并不希望如此，因此如果我们在模块中编写了执行代码，最好是将这些执行代码放入如下所示的条件中，
 这样的话除非直接运行该模块，if条件下的这些代码是不会执行的，因为只有直接执行的模块的名字才是"__main__"。
 
+#### [Day007](https://github.com/jingggo/Python_100Days/blob/master/Day01-15/Day007/CommonDataStructure.md)
+#### [Day008](https://github.com/jingggo/Python_100Days/tree/master/Day01-15/Day008/面向对象编程基础.ipynb)
+#### [Day008](https://github.com/jingggo/Python_100Days/tree/master/Day01-15/Day009)
