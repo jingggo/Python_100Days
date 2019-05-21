@@ -55,4 +55,4 @@ Output: World
 
 #### [Day007 数据结构](https://github.com/jingggo/Python_100Days/blob/master/Day01-15/Day007/CommonDataStructure.md)(str, list, tuple, list, dic, set)
 #### [Day008 面向对象编程](https://github.com/jingggo/Python_100Days/tree/master/Day01-15/Day008/面向对象编程基础.ipynb)
-#### [Day008](https://github.com/jingggo/Python_100Days/tree/master/Day01-15/Day009)
+#### [Day009 面向对象进阶](https://github.com/jingggo/Python_100Days/tree/master/Day01-15/Day009)
