@@ -10,11 +10,9 @@ And this project following [Python-100-Days](https://github.com/jackfrued/Python
 Python 简介，优缺点及其安装
 #### Day002
 语言元素
-#### [Day003](https://github.com/jingggo/Python_100Days/tree/master/Day01-15/Day003)
-If 语句
-#### [Day004](https://github.com/jingggo/Python_100Days/tree/master/Day01-15/Day004)
-for and while loop
-#### [Day005](https://github.com/jingggo/Python_100Days/tree/master/Day01-15/Day005)
+#### [Day003 If语句](https://github.com/jingggo/Python_100Days/tree/master/Day01-15/Day003)
+#### [Day004 for and while loop](https://github.com/jingggo/Python_100Days/tree/master/Day01-15/Day004)
+#### [Day005 练习](https://github.com/jingggo/Python_100Days/tree/master/Day01-15/Day005)
 For practice
 1. Lily
 1. Perfect num 
@@ -22,12 +20,13 @@ For practice
 1. Fibonacci
 1. Craps
 1. 
-#### [Day006](https://github.com/jingggo/Python_100Days/tree/master/Day01-15/Day006)
+#### [Day006 函数](https://github.com/jingggo/Python_100Days/tree/master/Day01-15/Day006)
 函数的模块和使用  
 函数的作用：
 防止冗余代码  
 def 定义  
-```buildoutcfg
+```
+buildoutcfg
     def foo():
         pass
 ```
@@ -56,4 +55,10 @@ Output: World
 #### [Day007 数据结构](https://github.com/jingggo/Python_100Days/blob/master/Day01-15/Day007/CommonDataStructure.md)(str, list, tuple, list, dic, set)
 #### [Day008 面向对象编程](https://github.com/jingggo/Python_100Days/tree/master/Day01-15/Day008/面向对象编程基础.ipynb)
 #### [Day009 面向对象进阶](https://github.com/jingggo/Python_100Days/tree/master/Day01-15/Day009)
+#### [Day010 图形界面编程tkinter](./Day01-15/Day010)
+#### [Day011 文件操作](./Day01-15/Day011)
+#### [Day012 正则表达式](./Day01-15/Day012)
+#### [Day013 进程和线程](./Day01-15/Day013)
+#### [Day014 网络协议](./Day01-15/Day014)
+#### [Day015 图像和办公文档处理](./Day01-15/Day015)
 [Python实现十大经典排序算法](https://cloud.tencent.com/developer/article/1108770)
