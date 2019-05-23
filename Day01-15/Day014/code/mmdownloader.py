@@ -1,5 +1,5 @@
 """
-
+从天行数据网站下载图片
 @Author:jyang
 @Date:5/21/2019
 """
@@ -24,7 +24,7 @@ class DownloadHandler(Thread):
 
 
 def main():
-    my_key = 'youKey'
+    my_key = '4c732116c7b9c2432f4cf8170abec6e7'
     resp = requests.get(
         'http://api.tianapi.com/meinv/?&key=%s&num=10' % (my_key))
     data_model = resp.json()
