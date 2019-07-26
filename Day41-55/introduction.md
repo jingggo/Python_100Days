@@ -1,0 +1,1 @@
+[Django 报错 LookupError: No installed app with label 'user' 的解决办法](https://blog.csdn.net/heatdeath/article/details/69939347)  

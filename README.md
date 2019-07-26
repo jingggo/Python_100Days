@@ -62,3 +62,5 @@ Output: World
 #### [Day014 网络协议](./Day01-15/Day014)
 #### [Day015 图像和办公文档处理](./Day01-15/Day015)
 [Python实现十大经典排序算法](https://cloud.tencent.com/developer/article/1108770)
+[Python 魔法方法指南](https://pyzh.readthedocs.io/en/latest/python-magic-methods-guide.html)
+[Python 装饰器](https://www.zhihu.com/question/26930016)
